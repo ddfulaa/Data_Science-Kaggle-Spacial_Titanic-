@@ -13,4 +13,4 @@ Mientras rodeaba Alpha Centauri en rutra a su primer destino- el caluroso 55 Can
 Para ayudar en el rescate de la tripulación y los pasajeros perdidos, se te pide que predigas cuáles pasajeros fueron transportados por la anomalía usando unos datos recuperados del sistema computacional dañado de la nave espacial.
 
 ## Solución
-La solución propuesta es una sencilla, pero consisa. El objetivo fue alcanzar un 80% de exactitud (accuracy). El análisis exploratorio se hizo usando la biblioteca `SweetViz` y se resolvió usando el modelo `GradientBoostingClassifier()`.
+La solución propuesta es una sencilla, pero consisa. El objetivo fue alcanzar un 80% de exactitud (accuracy). El análisis exploratorio se hizo usando la biblioteca `SweetViz` y se resolvió usando el modelo `GradientBoostingClassifier()`.. Se deja un notebook con la explicación detallada de lo que se hizo. Puede consultarla en [este enlace](https://nbviewer.org/github/ddfulaa/Data_Science-Kaggle-Spacial_Titanic-/blob/main/Titanic%20espacial.ipynb).
